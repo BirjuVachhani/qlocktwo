@@ -1,7 +1,7 @@
 # qlocktwo
 An intriguing clock that features a unique grid of 110 letter to display the time.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/birjuvachhani/pen/OJobdmj)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/birjuvachhani/pen/OJobdmj) [![Codemagic build status](https://api.codemagic.io/apps/63fce7261a90f305bc424528/63fce7261a90f305bc424527/status_badge.svg)](https://codemagic.io/apps/63fce7261a90f305bc424528/63fce7261a90f305bc424527/latest_build)
 
 <img src="banner.png" width="100%"/>
 
